@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="videoRedSocial.gif" width="800"/>
+   <img src="quizVideo.gif" width="800"/>
 </div>
 <br>
 
