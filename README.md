@@ -12,7 +12,7 @@
   <a href="https://quizzisquis.000webhostapp.com/quiz2/" target="_blank">
   Link a la página<a/>
     
-<div/>
+<div/> 
 
 ### Lo que puedes hacer:
 - Crear tus propios juegos de preguntas
