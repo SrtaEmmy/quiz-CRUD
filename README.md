@@ -18,7 +18,7 @@
 - Crear tus propios juegos de preguntas
 - Actualizarlos y eliminarlos
 - Jugar los quizis ya creados
-
+ 
 </br>
 
   <h3  align="center">
